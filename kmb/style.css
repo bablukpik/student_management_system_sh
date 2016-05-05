@@ -1,0 +1,369 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+* html li {
+	vertical-align: bottom;
+}
+* html img {
+	vertical-align: middle;
+}
+* html input {
+	vertical-align: middle;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#494949;
+	text-decoration: none;
+	background:#E6E3E3;
+	}
+input {
+	border: 0px;
+}
+img {
+	border: 0px;
+}
+ul {
+	padding: 0px;
+	margin: 0px;
+}
+li {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	text-decoration: none;
+}
+* html li {
+	vertical-align: bottom;
+}
+a {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+p {
+	margin: 0px;
+	padding: 0px;
+}
+.clear {
+	clear: both;
+	height:0px;
+	display:block;
+	font-size:0px;
+	padding:0px;
+	margin:0px;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+h1 {
+	color:#CCCCCC;
+	font-size:14px;
+	font-weight:bold;
+	line-height:20px;
+	padding:0px 0px 0px 0px; 
+	font-family:Arial, Helvetica, sans-serif;
+	 
+}
+ 
+/**********************************/
+
+#wraper
+	{
+	width:903px;
+	height:auto;
+	margin:auto;
+	}
+.bg-mid
+	{
+	width:903px;
+	height:auto;
+	margin-top:50px;
+	float:left;
+	background:url(img/bg-mid.png) repeat-y ;
+	}
+
+.bg-top
+	{
+	width:903px;
+	height:auto;
+	float:left;
+	background:url(img/bg-top.png) no-repeat top ;
+	}
+
+.bg-bot
+	{
+	width:903px;
+	height:auto;
+	float:left;
+	background:url(img/bg-bot.png) no-repeat  bottom ;
+	}
+#BG-CON
+	{
+	width:903px;
+	height:auto;
+	float:left;
+	}
+.bg-mai-top
+	{
+	width:600px;
+	height:90px;
+	float:left;
+	margin-left:20px;
+	margin-top:20px;
+	}
+.bg-mai-top-right
+	{
+	width:210px;
+	height:90px;
+	float:right;
+	margin-right:20px;
+	margin-top:20px;
+	}
+	
+.bg-mai-top h1
+	{
+	font-family:"Times New Roman", Times, serif;
+	font-size:28px;
+	color:#262626;
+	line-height:50px;
+	font-weight:bold;
+	}	
+.bg-mai-top span
+	{
+	font-family:"Times New Roman", Times, serif;
+	font-size:22px;
+	color:#262626;
+	line-height:20px;
+	font-weight:bold;
+	}
+.contenar
+	{
+	width:903px;
+	height:auto;
+	float:left;
+	}	
+.con-left
+	{
+	width:253px;
+	height:auto;
+	float: left;
+	margin-left:20px;
+	
+	}	
+	
+.bg-lef-men-mid
+	{
+	width:253px;
+	height:auto;
+	float:left;
+	background:url(img/adm-mid.png) repeat-y ;
+	}
+.bg-lef-men-top
+	{
+	width:253px;
+	float:left;
+	background:url(img/adm-top.png) no-repeat top;
+	}
+.bg-lef-men-bot
+	{
+	width:253px;
+	float:left;
+	background:url(img/adm-bot.png) no-repeat bottom;
+	}
+#con-left-min-top
+	{
+	width:200px;
+	height:40px;
+	float:left;
+	line-height:30px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	font-weight:bold;
+	padding-left:15px;
+	color:#009933;
+	}
+.ds-blank-1
+	{
+	width:250px;
+	height:30px;
+	float:left;
+	}	
+.con-right
+	{
+	width:596px;
+	height:auto;
+	margin:auto;
+	margin-right:20px;
+	}
+.das-mid
+	{
+	width:596px;
+	height:auto;
+	float:left;
+	background:url(img/das-mid.png) repeat-y ;
+	}
+.das-top
+	{
+	width:596px;
+	height:auto;
+	float:left;
+	background:url(img/das-top.png) no-repeat top ;
+	}
+.das-bot
+	{
+	width:596px;
+	height:auto;
+	float:left;
+	background:url(img/das-bot.png) no-repeat bottom ;
+	}
+#con-right-min-top
+	{
+	width:300px;
+	height:40px;
+	float:left;
+	line-height:30px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	font-weight:bold;
+	padding-left:15px;
+	color:#009933;
+	}
+.das-icon-bord
+	{
+	width:596px;
+	height:auto;
+	margin:auto;
+	margin-top:50px;
+	
+	}
+.ds-blank
+	{
+	width:903px;
+	height:30px;
+	float:right;
+
+	}	
+
+.das-icon-main
+	{
+	width:596px;
+	height:auto;
+	margin-bottom:20PX;
+	}	
+.das-icon-main1
+	{
+	width:110px;
+	height:110px;
+	float:left;
+	margin-left:20px;
+	margin-bottom:30PX;
+	
+	}
+.das-icon-main-im
+	{
+	width:110px;
+	height:110px;
+	float:left;
+	
+	}
+.icon a
+	{
+	float:left;
+	width:110px;
+  	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#333333;
+	line-height:28px;
+	font-weight:bold;
+	height:28px;
+	margin:auto;
+	}		
+.icon a:hover
+	{
+	 
+	color:#0099FF;
+	 
+	}		
+/*******************************************menu*********************/
+
+
+.glossymenu{
+margin: 5px 0;
+padding: 0;
+margin:auto;
+margin-top:40px;
+width: 230px; /*width of menu*/
+border:none;
+border-bottom-width:1px solid black ;
+background:#ECEAEA;
+}
+
+.glossymenu a.menuitem{
+background: black #000099 repeat-x bottom left;
+font: bold 14px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+color: #000000;
+display: block;
+position: relative; /*To help in the anchoring of the ".statusicon" icon image*/
+width: auto;
+padding: 4px 0;
+padding-left: 10px;
+text-decoration: none;
+}
+
+
+.glossymenu a.menuitem:visited, .glossymenu .menuitem:active{
+color: #666666;
+}
+
+.glossymenu a.menuitem .statusicon{ /*CSS for icon image that gets dynamically added to headers*/
+position: absolute;
+top: 5px;
+right: 5px;
+border: #009966;
+}
+
+.glossymenu a.menuitem:hover{
+background:#9999CC ;
+}
+
+.glossymenu div.submenu{ /*DIV that contains each sub menu*/
+background: #99CCFF;
+}
+
+.glossymenu div.submenu ul{ /*UL of each sub menu*/
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.glossymenu div.submenu ul li{
+border-bottom: 1px solid black;
+}
+
+.glossymenu div.submenu ul li a{
+display: block;
+font: normal 13px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+color: #000000;
+text-decoration: none;
+padding: 2px 0;
+padding-left: 10px;
+}
+
+.glossymenu div.submenu ul li a:hover{
+background: #999966;
+colorz: white;
+}
+
+
+
+	
